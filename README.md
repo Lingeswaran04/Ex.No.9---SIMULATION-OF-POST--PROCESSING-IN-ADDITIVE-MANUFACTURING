@@ -45,10 +45,19 @@
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
 
-### Name:
-### Register Number:
+## Output:
+## Support Removal Process
+![image](https://github.com/Lingeswaran04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119103865/7a40ee5f-2d31-4591-8ea2-a827526fc3aa)
+
+## UV Curing of 3D printed part
+![image](https://github.com/Lingeswaran04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119103865/945f8e06-259a-468a-915e-ab805c4ce70e)
+
+## Heat Treatment of 3D printed part
+![image](https://github.com/Lingeswaran04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119103865/769c7ac9-0bc6-4a3b-b8a3-247c07318094)
+
+### Name:LINGESWARAN.K
+### Register Number:212222110022
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
